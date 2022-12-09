@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: TekTutor_Linux_Agent_Pool
+  name: Default
 
 variables:
 - name: JAVA_HOME_8_X64
