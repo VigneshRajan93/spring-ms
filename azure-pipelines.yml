@@ -10,6 +10,8 @@ pool:
   name: Default
 
 variables:
+- name: JAVA_HOME_8_X64
+  value: /usr/lib/jvm/java-11-openjdk-amd64
 - name: JAVA_HOME
   value: /usr/lib/jvm/java-11-openjdk-amd64
 - name: M2_HOME
